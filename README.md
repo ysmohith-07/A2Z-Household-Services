@@ -27,7 +27,7 @@ Quiz Master is a web-based quiz management system built using **Vue.js** for the
 ## Project Structure
 
 /A_Z_Household_serices_2XfXXXXXX
-│── frontend/
+│── frontend/\n
 │   ├── src/
 │   │   ├── components/
 │   │   │   ├── file1.vue
