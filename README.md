@@ -1,7 +1,7 @@
-# Quiz Master
+# A2Z Household Serices
 
 ## Project Overview
-Quiz Master is a web-based quiz management system built using **Vue.js** for the frontend, **Flask** for the backend API, and **SQLite** for data storage. It includes **Redis** for caching and **Celery** for batch job processing. The application allows users to create, manage, and participate in quizzes efficiently.
+A2Z Household Services is an on-demand service booking platform, that connects users with professional service providers for household needs such as plumbing, electrical work, cleaning, repairs, and more. The platform uses Vue.js for the frontend, Flask for the backend API, and SQLite for data storage. It also integrates Redis for caching and Celery for batch job processing to ensure seamless and efficient service management.
 
 ---
 
@@ -23,22 +23,4 @@ Quiz Master is a web-based quiz management system built using **Vue.js** for the
 - **Bootstrap** is the only CSS framework used for HTML styling.
 
 ---
-
-## Project Structure
-
-/A_Z_Household_serices_2XfXXXXXX
-│── frontend/\n
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── file1.vue
-│   │   │   ├── file2.vue
-│
-│── backend/
-│   ├── routes/
-│   │   ├── file1.py
-│   │   ├── file2.py
-│   ├── models/
-│   ├── app.py
-
-
 
